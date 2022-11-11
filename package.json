@@ -1,0 +1,22 @@
+{
+  "name": "pi-hole",
+  "version": "1.0.0",
+  "manufacturer": "drautb",
+  "product": "pi-hole",
+  "shortname": "pi-hole",
+  "description": "Control home deployment of PiHole with stream deck",
+  "homepage": "https://github.com/drautb/companion-module-pi-hole",
+  "bugs": {
+    "url": "https://github.com/drautb/companion-module-pi-hole/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drautb/companion-module-pi-hole.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Draut <drautb@gmail.com>",
+  "license": "MIT"
+}
